@@ -18,7 +18,7 @@ En estos archivos hay simulaciones de las posibles posiciones pasadas de estrell
   - Calcule la magnitud de la desviación estándar: raiz(sigma_x^2+sigma_y^2+sigma_z^2)
 - Encuentre para cuál época ésta desviación es mínima. Ésta es la edad aproximada de ese grupo móvil.
 
-## Para pensar
+## Para pensar e investigar en su casa
 
 - Calculando el promedio de la posición para cada época sería posible identificar estrellas que están muy lejos del promedio y posiblemente están mal identificadas?
 - Cómo cambiarían los resultados si en vez de la desviación estándar se usan otras medidas de la dispersión como Median Absolute Deviation (MAD), cuartiles,...?
