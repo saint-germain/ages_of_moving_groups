@@ -3,12 +3,10 @@
 Descargue los siguientes archivos:
 
 - https://github.com/saint-germain/ages_of_moving_groups/raw/master/ages_lcc.xlsx
-
-- https://github.com/saint-germain/ages_of_moving_groups/raw/master/ages_bpic.csv
-- https://github.com/saint-germain/ages_of_moving_groups/raw/master/ages_twhya.csv
-- https://github.com/saint-germain/ages_of_moving_groups/raw/master/ages_lcc.csv
-- https://github.com/saint-germain/ages_of_moving_groups/raw/master/ages_ucl.csv
-- https://github.com/saint-germain/ages_of_moving_groups/raw/master/ages_sco_cen.csv
+- https://github.com/saint-germain/ages_of_moving_groups/raw/master/ages_bpic.xlsx
+- https://github.com/saint-germain/ages_of_moving_groups/raw/master/ages_twhya.xlsx
+- https://github.com/saint-germain/ages_of_moving_groups/raw/master/ages_ucl.xlsx
+- https://github.com/saint-germain/ages_of_moving_groups/raw/master/ages_sco_cen.xlsx
 
 En estos archivos hay simulaciones de las posibles posiciones pasadas de estrellas en grupos móviles cercanos calculadas con sus posiciones y velocidades actuales obtenidas de [GAIA DR2](https://es.wikipedia.org/wiki/Gaia_(sonda_espacial))
 
